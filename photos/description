@@ -2,4 +2,5 @@ Realisation of the relay based H-bridge comes with the two versions:
 1. Only simple H-bridge no PWM
 2. H-bridge with PWM managed through switching PWM signal
 
-Relays are not capable of generating PWM so a specific MOS-FET is used and then PWM is switched to the motor via the relays.
+Relays are not capable of generating PWM so a specific MOS-FET is used and then PWM is switched to the motor via the relays. 
+Version 2 is depicted on the photo as it is the most advanced version.
